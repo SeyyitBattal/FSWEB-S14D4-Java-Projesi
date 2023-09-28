@@ -10,6 +10,8 @@ public abstract class ProductForSale {
         this.price = price;
     }
 
+
+
     public String getType() {
         return type;
     }
