@@ -23,9 +23,6 @@ public abstract class Monster {
         return damage;
     }
 
-    public void setDamage(double damage) {
-        this.damage = damage;
-    }
 
     public abstract double attack();
 
